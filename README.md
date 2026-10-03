@@ -2,6 +2,12 @@
 
 Data Analyst with 3.5+ years turning operational data into decisions, across manufacturing and research. Chemical Engineer by training (UFBA), currently on iFood's Performance & Collection team in logistics, and open to remote Data Analyst / BI roles.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErikaNSantos/ErikaNSantos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErikaNSantos/ErikaNSantos/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ErikaNSantos/ErikaNSantos/output/github-contribution-grid-snake.svg" />
+</picture>
+
 I'm guided by four non-negotiable values that define how I work, learn, and live.
 
 ---
@@ -28,6 +34,14 @@ I'm guided by four non-negotiable values that define how I work, learn, and live
 
 ---
 
+### Beyond the Data
+
+- 🧩 I solve Rubik's cubes to reset my head between problems.
+- 📖 Tolkien's world is my favorite escape, even my thesis opens with a quote from him.
+- 🎸 I also play guitar, watch anime, and read Agatha Christie.
+
+---
+
 ### Technologies and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,6 +50,16 @@ I'm guided by four non-negotiable values that define how I work, learn, and live
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p>
+  <img align="left" src="https://github-stats-extended.vercel.app/api?username=ErikaNSantos&show_icons=true&bg_color=0B0E14&title_color=F0A028&icon_color=F0A028&text_color=8B93A7&border_color=242830&hide_border=false" width="49%" alt="Erika's GitHub stats" />
+  <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ErikaNSantos&layout=compact&bg_color=0B0E14&title_color=F0A028&text_color=8B93A7&border_color=242830&hide_border=false" width="49%" alt="Erika's most used languages" />
+</p>
+<br clear="both">
 
 ---
 
@@ -54,7 +78,7 @@ More at [erikansantos.github.io](https://erikansantos.github.io).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikanogueirasantos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erika.nogueira.santos@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=ErikaNSantos&color=blue&style=for-the-badge&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=ErikaNSantos&color=F0A028&style=for-the-badge&label=Profile+views)
 
 <br><hr><br>
 
@@ -89,6 +113,14 @@ Sigo quatro valores inegociáveis que definem como eu trabalho, aprendo e vivo.
 - 🌱 **Aprendendo:** Databricks e Google Cloud, em cima de uma base de Power BI, SQL e Python.
 - 🎯 **Objetivo:** Uma posição remota como Analista de Dados ou Analista de BI, de preferência onde conhecimento de manufatura ou química seja uma vantagem.
 - 💡 **Filosofia:** Prefiro corrigir uma resposta errada a entregar um achismo com confiança. Decisão tem que voltar pro dado, não pro "achismo".
+
+---
+
+### Fora dos Dados
+
+- 🧩 Resolvo cubo mágico pra resetar a cabeça entre um problema e outro.
+- 📖 O universo do Tolkien é minha fuga favorita, até meu TCC abre com uma citação dele.
+- 🎸 Também toco violão, curto anime, e leio Agatha Christie.
 
 ---
 
