@@ -2,26 +2,6 @@
 
 Data Analyst with 3.5+ years turning operational data into decisions, across manufacturing and research. Chemical Engineer by training (UFBA), currently on iFood's Performance & Collection team in logistics, and open to remote Data Analyst / BI roles.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErikaNSantos/ErikaNSantos/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErikaNSantos/ErikaNSantos/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ErikaNSantos/ErikaNSantos/output/github-contribution-grid-snake.svg" />
-</picture>
-
-I'm guided by four non-negotiable values that define how I work, learn, and live.
-
----
-
-### My Pillars
-
-🧠 **Clarity** — Pursuit of data and deep understanding. Solutions defended with lucidity.
-
-⚙️ **Execution** — Do it once, do it right. I'd rather solve a problem for good than repeat the same fix forever.
-
-💡 **Creativity** — Passion for building new and useful things. Learning is the means, creating is the end.
-
-🧭 **Integrity** — I'd rather earn less than do something I consider wrong. Results I can stand behind, even under pressure.
-
 ---
 
 ### About Me
@@ -34,11 +14,17 @@ I'm guided by four non-negotiable values that define how I work, learn, and live
 
 ---
 
-### Beyond the Data
+### My Pillars
 
-- 🧩 I solve Rubik's cubes to reset my head between problems.
-- 📖 Tolkien's world is my favorite escape, even my thesis opens with a quote from him.
-- 🎸 I also play guitar, watch anime, and read Agatha Christie.
+I'm guided by four non-negotiable values that define how I work, learn, and live.
+
+🧠 **Clarity** — Pursuit of data and deep understanding. Solutions defended with lucidity.
+
+⚙️ **Execution** — Do it once, do it right. I'd rather solve a problem for good than repeat the same fix forever.
+
+💡 **Creativity** — Passion for building new and useful things. Learning is the means, creating is the end.
+
+🧭 **Integrity** — I'd rather earn less than do something I consider wrong. Results I can stand behind, even under pressure.
 
 ---
 
@@ -53,7 +39,31 @@ I'm guided by four non-negotiable values that define how I work, learn, and live
 
 ---
 
-### GitHub Stats
+### Recent Work
+
+- [`predictive-mainentance`](https://github.com/ErikaNSantos/predictive-mainentance) — failure-mode analysis and multi-label classification on the AI4I 2020 dataset, with an interactive Streamlit dashboard.
+- [`Energy-Bot`](https://github.com/ErikaNSantos/Energy-Bot) — a Telegram bot that models household energy use per appliance session, running in production on Oracle Cloud.
+- [`lle-pil-biodiesel`](https://github.com/ErikaNSantos/lle-pil-biodiesel) — my thesis: comparing UNIFAC-LL and COSMO-SAC to test whether protic ionic liquids act as cosolvents in biodiesel systems.
+
+More at [erikansantos.github.io](https://erikansantos.github.io).
+
+---
+
+### Beyond the Data
+
+- 🧩 I solve Rubik's cubes to reset my head between problems.
+- 📖 Tolkien's world is my favorite escape, even my thesis opens with a quote from him.
+- 🎸 I also play guitar, watch anime, and read Agatha Christie.
+
+---
+
+### Just for Fun
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErikaNSantos/ErikaNSantos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErikaNSantos/ErikaNSantos/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ErikaNSantos/ErikaNSantos/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <p>
   <img align="left" src="https://github-stats-extended.vercel.app/api?username=ErikaNSantos&show_icons=true&bg_color=0B0E14&title_color=F0A028&icon_color=F0A028&text_color=8B93A7&border_color=242830&hide_border=false" width="49%" alt="Erika's GitHub stats" />
@@ -64,16 +74,6 @@ I'm guided by four non-negotiable values that define how I work, learn, and live
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ErikaNSantos&theme=onedark&title.color=F0A028&icon.color=F0A028&text.color=8B93A7&background=0B0E14&border.radius=10&no-frame=true&row=1" alt="Erika's GitHub trophies" />
 </p>
-
----
-
-### Recent Work
-
-- [`predictive-mainentance`](https://github.com/ErikaNSantos/predictive-mainentance) — failure-mode analysis and multi-label classification on the AI4I 2020 dataset, with an interactive Streamlit dashboard.
-- [`Energy-Bot`](https://github.com/ErikaNSantos/Energy-Bot) — a Telegram bot that models household energy use per appliance session, running in production on Oracle Cloud.
-- [`lle-pil-biodiesel`](https://github.com/ErikaNSantos/lle-pil-biodiesel) — my thesis: comparing UNIFAC-LL and COSMO-SAC to test whether protic ionic liquids act as cosolvents in biodiesel systems.
-
-More at [erikansantos.github.io](https://erikansantos.github.io).
 
 ---
 
@@ -94,20 +94,6 @@ More at [erikansantos.github.io](https://erikansantos.github.io).
 
 Analista de Dados com 3,5+ anos transformando dado operacional em decisão, entre manufatura e pesquisa. Engenheira Química de formação (UFBA), hoje no time de Performance e Coleta do iFood, na área de logística, e aberta a posições remotas de Analista de Dados / BI.
 
-Sigo quatro valores inegociáveis que definem como eu trabalho, aprendo e vivo.
-
----
-
-### Meus Pilares
-
-🧠 **Clareza** — Busca por dados e entendimento profundo. Soluções defendidas com lucidez.
-
-⚙️ **Execução** — Fazer uma vez e fazer certo. Prefiro resolver um problema de vez a repetir o mesmo ajuste pra sempre.
-
-💡 **Inventividade** — Paixão por construir coisas novas e úteis. Aprender é o meio, criar é o fim.
-
-🧭 **Integridade** — Prefiro ganhar menos a fazer algo que considero errado. Resultado que eu consigo defender, mesmo sob pressão.
-
 ---
 
 ### Sobre Mim
@@ -120,11 +106,17 @@ Sigo quatro valores inegociáveis que definem como eu trabalho, aprendo e vivo.
 
 ---
 
-### Fora dos Dados
+### Meus Pilares
 
-- 🧩 Resolvo cubo mágico pra resetar a cabeça entre um problema e outro.
-- 📖 O universo do Tolkien é minha fuga favorita, até meu TCC abre com uma citação dele.
-- 🎸 Também toco violão, curto anime, e leio Agatha Christie.
+Sigo quatro valores inegociáveis que definem como eu trabalho, aprendo e vivo.
+
+🧠 **Clareza** — Busca por dados e entendimento profundo. Soluções defendidas com lucidez.
+
+⚙️ **Execução** — Fazer uma vez e fazer certo. Prefiro resolver um problema de vez a repetir o mesmo ajuste pra sempre.
+
+💡 **Inventividade** — Paixão por construir coisas novas e úteis. Aprender é o meio, criar é o fim.
+
+🧭 **Integridade** — Prefiro ganhar menos a fazer algo que considero errado. Resultado que eu consigo defender, mesmo sob pressão.
 
 ---
 
@@ -146,6 +138,14 @@ Sigo quatro valores inegociáveis que definem como eu trabalho, aprendo e vivo.
 - [`lle-pil-biodiesel`](https://github.com/ErikaNSantos/lle-pil-biodiesel) — meu TCC: comparação entre UNIFAC-LL e COSMO-SAC pra testar se líquidos iônicos próticos atuam como cossolventes em sistemas de biodiesel.
 
 Mais em [erikansantos.github.io](https://erikansantos.github.io).
+
+---
+
+### Fora dos Dados
+
+- 🧩 Resolvo cubo mágico pra resetar a cabeça entre um problema e outro.
+- 📖 O universo do Tolkien é minha fuga favorita, até meu TCC abre com uma citação dele.
+- 🎸 Também toco violão, curto anime, e leio Agatha Christie.
 
 ---
 
