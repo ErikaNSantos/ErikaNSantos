@@ -61,6 +61,10 @@ I'm guided by four non-negotiable values that define how I work, learn, and live
 </p>
 <br clear="both">
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ErikaNSantos&theme=onedark&title.color=F0A028&icon.color=F0A028&text.color=8B93A7&background=0B0E14&border.radius=10&no-frame=true&row=1" alt="Erika's GitHub trophies" />
+</p>
+
 ---
 
 ### Recent Work
