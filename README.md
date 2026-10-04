@@ -1,12 +1,6 @@
 <div align="center">
 
-```
-$ whoami
-```
-
-**Érika Nogueira Santos** — Data Analyst · Chemical Engineer
-
-iFood, Performance & Collection (Logistics) · open to remote roles
+<img src="https://raw.githubusercontent.com/ErikaNSantos/ErikaNSantos/main/assets/terminal-hero.svg" alt="Terminal: Érika Nogueira Santos, Data Analyst and Chemical Engineer" width="900" />
 
 </div>
 

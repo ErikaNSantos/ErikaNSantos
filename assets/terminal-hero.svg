@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="Terminal: Erika Nogueira Santos, Data Analyst and Chemical Engineer">
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+    .dim  { fill: #6E7686; font-size: 14px; }
+    .acc  { fill: #F0A028; }
+    .txt  { fill: #D7DCE6; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="898" height="238" rx="10" fill="#0B0E14" stroke="#F0A028" stroke-opacity="0.35" stroke-width="2"/>
+  <path d="M1 11 a10 10 0 0 1 10 -10 h878 a10 10 0 0 1 10 10 v26 h-898 z" fill="#12161F"/>
+  <circle cx="26" cy="19" r="6" fill="#6B4C17"/>
+  <circle cx="48" cy="19" r="6" fill="#B07A1E"/>
+  <circle cx="70" cy="19" r="6" fill="#F0A028"/>
+  <text x="450" y="24" text-anchor="middle" class="mono dim">erika@rivendell: ~</text>
+
+  <circle cx="800" cy="130" r="95" fill="none" stroke="#F0A028" stroke-width="1.5" opacity="0.07"/>
+  <circle cx="800" cy="130" r="70" fill="none" stroke="#F0A028" stroke-width="1" opacity="0.06"/>
+
+  <text x="32" y="78" class="mono dim"><tspan class="acc">erika@ifood</tspan>:<tspan fill="#4A5160">~</tspan>$ whoami</text>
+  <text x="32" y="122" class="mono" font-size="36" font-weight="700" fill="#F0A028">Érika Nogueira Santos</text>
+  <text x="32" y="150" class="mono txt" font-size="16">Data Analyst · Chemical Engineer</text>
+  <text x="32" y="172" class="mono dim" font-size="13">iFood — Performance &amp; Collection, Logistics · open to remote roles</text>
+  <text x="32" y="212" class="mono dim"><tspan class="acc">erika@ifood</tspan>:<tspan fill="#4A5160">~</tspan>$ <tspan class="cursor acc">█</tspan></text>
+</svg>
